@@ -1,4 +1,4 @@
-# django_blog_site
+# Django Blog Site
 
 
 This is a Django website which has two features.
